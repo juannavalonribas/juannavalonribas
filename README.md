@@ -1,6 +1,6 @@
-# Greetings 🧙‍♂️, I'm️ Juan
+# Greetings 🧙‍♂️, 
 
-A passionate QA with 8+ years of experience mainly in UI testing for web and mobile applications. I am a strong believer
+I'm️ Juan a passionate QA with 8+ years of experience mainly in UI testing for web and mobile applications. I am a strong believer
 that today's QA work should **focus on providing efficient and easy-to-use implement tools and processes** in order to
 create a safety net during the entire software development cycle.
 
