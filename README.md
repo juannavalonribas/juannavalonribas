@@ -28,4 +28,4 @@ create a safety net during the entire software development cycle.
 
 ## 🙇‍♂️ I’m currently working on
 
-- 🌱 Learning about API performance testing.
+- 🌱 Learning about AI and MCP.
