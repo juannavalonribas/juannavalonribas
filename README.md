@@ -1,6 +1,6 @@
 # Greetings 🧙‍♂️
 
-I'm️ Juan a passionate QA with 8+ years of experience mainly in UI testing for web and mobile applications. I am a strong believer
+I'm️ Juan a passionate QA with 9+ years of experience mainly in UI testing for web and mobile applications. I am a strong believer
 that today's QA work should **focus on providing efficient and easy-to-use implement tools and processes** in order to
 create a safety net during the entire software development cycle.
 
@@ -8,6 +8,7 @@ create a safety net during the entire software development cycle.
 
 ## 🤹 Skills
 
+- Experienced in building AI-powered Skills and MCP integrations to streamline development workflows, enabling intelligent error detection before code is pushed 
 - Unit testing, performance testing, integration testing, E2E & exploratory testing.
 - Team player & collaborative, good communicator & problem solver.
 
@@ -24,8 +25,10 @@ create a safety net during the entire software development cycle.
 <img alt="Postman" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg"/>
 <img alt="Jenkins" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jenkins/jenkins-original.svg"/>
 <img alt="Github actions" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubactions/githubactions-original.svg"/>
+<img alt="Storybook" width="40px" style="padding-right:10px;" src="https://www.svgrepo.com/show/354397/storybook-icon.svg"/>
 </p>
 
 ## 🙇‍♂️ I’m currently working on
 
-- 🌱 Learning about AI and MCP.
+- 🌱 Improve my knowledge on AI & LLM capabilities.
+- 🧑‍💻 Creating [Kickwi](https://kickwi.com/es)
